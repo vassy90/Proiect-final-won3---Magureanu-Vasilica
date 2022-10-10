@@ -1,3 +1,3 @@
 # Proiect-final-won3-Python
-Jocul Spanzuratoarea
+Jocul Spanzuratoarea-
 Tehnologia utilizata este limbajul Python
